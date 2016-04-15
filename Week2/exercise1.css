@@ -10,9 +10,9 @@ p {
   font-style: Helvetica;
   font-size:16px;
 }
-ul {
+.c1 {
   background-color: yellow;
 }
-ol {
+.c2 {
   background-color: teal;
 }
