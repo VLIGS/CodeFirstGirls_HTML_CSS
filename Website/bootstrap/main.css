@@ -1,15 +1,30 @@
-#social-buttons button{
-  color: white;
+body {
+  margin: 0;
+  padding: 0;
+  background: #ccc;
 }
-.btn-twitter{
-  background-color: #00acee;
-  border-color: #009ad5;
+
+.nav ul {
+  list-style: none;
+  background-color: white;
+  text-align: center;
+  padding: 0;
+  margin: 0;
 }
-.btn-facebook{
-  background-color: #4868ac;
-  border-color: #314776;
+
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  width: 120px;
+  font-size: 1.6em;
+  line-height: 40px;
+  height: 40px;
+  display: inline;
 }
-.btn-pinterest{
-  background-color: #b62f26;
-  border-color: #b62f26;
+
+.nav a {
+  color: black;
+}
+
+.nav a:hover {
+  background-color: #ccc;
 }
