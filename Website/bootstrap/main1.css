@@ -1,7 +1,6 @@
-body{
-  color: grey;
-}
+
 header {
+  /*background: url("https://images.duckduckgo.com/iu/?u=http%3A%2F%2F1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2015%2F03%2FBlockchain.jpg&f=1");*/
   background: url("images/net4.png");
   background-size: cover;
 }
