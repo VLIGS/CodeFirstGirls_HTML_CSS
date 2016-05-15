@@ -1,8 +1,6 @@
-body{
-  color: grey;
-}
+
 header {
-  background: url("images/net4.png");
+  background: url("images/blockchain1.png");
   background-size: cover;
 }
 .top_nav {
@@ -24,15 +22,30 @@ li {
   display: inline;
   padding: 0px 10px 0px 10px;
 }
+p{
+  font-size: 0.6em;
+  text-align: justify;
+}
 
 h1{
-  color: orange;
+  color: #FFFFFF;
   text-align: center;
 }
 
-.top_bar a {
-  color: black;
+h2{
+  color: grey;
+  text-align: center;
 }
-.nav1 a {
-  color: white;
+
+.top_nav{
+  color:grey;
+}
+
+a {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.top_bar a{
+  color: black;
 }
