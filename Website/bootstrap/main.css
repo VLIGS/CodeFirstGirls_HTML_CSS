@@ -49,3 +49,12 @@ a {
 .top_bar a{
   color: black;
 }
+.contact{
+  font-size: 0.6em;
+}
+.links{
+  font-size: 0.6em;
+}
+.links a{
+  color: grey;
+}
